@@ -69,3 +69,4 @@ end
 
 gem "devise"
 gem 'activeadmin'
+gem 'sassc-rails'
